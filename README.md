@@ -1,2 +1,15 @@
-# projectManagement
-项目管理系统
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
